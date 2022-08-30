@@ -31,8 +31,8 @@ export class SettingsAccountComponent implements OnInit
     {
         // Create the form
         this.accountForm = this._formBuilder.group({
-            name    : ['Helberty'],
-            username: ['Helberty'],
+            name    : ['Marco Aurélio'],
+            username: ['Marco Aurélio'],
             title   : ['Senior Frontend Developer'],
             company : ['YXZ Software'],
             about   : ['Hey! This is Brian; husband, father and gamer. I\'m mostly passionate about bleeding edge tech and chocolate! 🍫'],
