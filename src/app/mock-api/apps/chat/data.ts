@@ -3000,7 +3000,7 @@ export const contacts = [
 ];
 export const profile: any = {
     id    : 'cfaad35d-07a3-4447-a6c3-d8c3d54fd5df',
-    name  : 'Helberty',
+    name  : 'Marco Aurélio',
     email : 'marco@marr.com.br',
     avatar: 'assets/images/avatars/marcoaurelio.jpeg',
     about : 'Hi there! I\'m using FuseChat.'
